@@ -1,0 +1,66 @@
+.home-section{
+    position: relative;
+    background: #FFC4C4;
+    min-height: 100vh;
+    top: 0;
+    left: 78px;
+    width: calc(100% - 78px);
+    transition: all 0.5s ease;
+    z-index: 2;
+}
+.container-fluid{
+    background: #FFC4C4;
+}
+.navbar{
+    border: #FFC4C4;
+}
+legend{
+    color: #000000;
+    font-size: 30px;
+}
+.jumbotron{
+    background: #ff6565;
+    color: #fff;
+}
+legend{
+    text-align: center;
+    font-weight: 800;
+    font-size: 45px;
+}
+.form-group{
+    font-weight: 800;
+    font-size: 16px;
+}
+.form-control{
+    font-size: 15px;
+    color: #000000;
+    background: #FFC4C4;
+    border-radius: 12px;
+}
+
+.btn {
+    color: #fff;
+    font-weight: 400;
+    background: #ff6565; 
+    border-width: 3px;
+    border-color: #fff;
+    border-radius: 12px;
+}
+.btn:hover {
+    color: #fff;
+    background: #ff0000; 
+    border-color: #fff;
+    border-radius: 12px;
+}
+.btn:focus {
+    color: #fff;
+    background: #ff0000; 
+    border-color: #fff;
+    border-radius: 12px;
+}
+.btn:active {
+    color: #fff;
+    background: #ff0000; 
+    border-color: #fff;
+    border-radius: 12px;
+}
